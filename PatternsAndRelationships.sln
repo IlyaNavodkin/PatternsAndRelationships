@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Relationships", "Relationships", "{4A835943-9E87-40E1-8DF8-03F294E30396}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patterns", "Patterns", "{42576E0B-B9AF-44F2-AC20-1855ED57DE62}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Generative", "Generative", "{B94F70D4-D9D2-4D4C-B2C0-6CD139903D2C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{C72A0EA2-F849-42ED-B52E-C55209DA0AD6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Behavioral", "Behavioral", "{E2009DFB-0FCA-4186-8CA2-0151FD0FFE77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B94F70D4-D9D2-4D4C-B2C0-6CD139903D2C} = {42576E0B-B9AF-44F2-AC20-1855ED57DE62}
+		{C72A0EA2-F849-42ED-B52E-C55209DA0AD6} = {42576E0B-B9AF-44F2-AC20-1855ED57DE62}
+		{E2009DFB-0FCA-4186-8CA2-0151FD0FFE77} = {42576E0B-B9AF-44F2-AC20-1855ED57DE62}
+	EndGlobalSection
+EndGlobal
